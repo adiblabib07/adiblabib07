@@ -1,22 +1,25 @@
 <!-- ===== HEADER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff0080,50:7928ca,100:00dfd8&height=220&section=header&text=Adib%20Labib&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Indonesia&descAlignY=58&descSize=20" width="100%" alt="header" />
+<img src="https://raw.githubusercontent.com/adiblabib07/adiblabib07/main/assets/header.svg" width="100%" alt="Adib Labib" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Adib+Labib;A+passionate+frontend+developer;I+turn+ideas+into+clean+interfaces+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=adiblabib07&label=Profile%20views&color=7928ca&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/badge/Based%20in-Indonesia-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
+<img src="https://img.shields.io/github/followers/adiblabib07?style=for-the-badge&logo=github&color=ff0080" alt="followers" />
+<img src="https://img.shields.io/badge/Based%20in-Indonesia-00dfd8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/adiblabib07/adiblabib07/main/assets/divider.svg" width="100%" height="6" alt="divider" />
 
-## 👨‍💻 About Me
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=About%20Me&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="About%20Me" /></div>
+
+<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="wave" />
 
 - 🎨 Frontend developer who loves crafting smooth, good-looking UIs
 - 🌱 Currently exploring **React, TypeScript & Next.js**
@@ -24,9 +27,9 @@
 - 🎮 Side interests: **Blender, Unity & design (Figma / Illustrator)**
 - 💬 Ask me about anything frontend-related!
 
-<br/>
+<img src="https://raw.githubusercontent.com/adiblabib07/adiblabib07/main/assets/divider.svg" width="100%" height="6" alt="divider" />
 
-## 🌐 Connect with Me
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Connect%20With%20Me&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="Connect%20With%20Me" /></div>
 
 <div align="center">
 
@@ -39,9 +42,9 @@
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/adiblabib07/adiblabib07/main/assets/divider.svg" width="100%" height="6" alt="divider" />
 
-## 🛠️ Languages & Tools
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Tech%20Stack&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="Tech%20Stack" /></div>
 
 <div align="center">
 
@@ -51,11 +54,15 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=figma,ai,blender,unity,androidstudio,cypress,linux,git,github,vscode&perline=10" alt="tools" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/adiblabib07/adiblabib07/main/assets/skills.svg" width="80%" alt="skills" />
+
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/adiblabib07/adiblabib07/main/assets/divider.svg" width="100%" height="6" alt="divider" />
 
-## 📊 GitHub Stats
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=GitHub%20Stats&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="GitHub%20Stats" /></div>
 
 <div align="center">
 
@@ -64,26 +71,26 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=adiblabib07&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
-
-</div>
+<img src="https://streak-stats.demolab.com?user=adiblabib07&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="streak" />
 
 <br/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adiblabib07&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" alt="activity graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=adiblabib07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies" />
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/adiblabib07/adiblabib07/main/assets/divider.svg" width="100%" height="6" alt="divider" />
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Contribution%20Graph&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="Contribution%20Graph" /></div>
 
 <div align="center">
 
-<i>"Code is like humor. When you have to explain it, it's bad."</i> 😄
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adiblabib07&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&color=00dfd8&line=ff0080&point=ffffff" width="100%" alt="activity graph" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:00dfd8&height=120&section=footer" width="100%" alt="footer" />
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:00dfd8&height=140&section=footer&reversal=true" width="100%" alt="footer" />
