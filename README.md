@@ -10,7 +10,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=adiblabib07&label=Profile%20views&color=7928ca&style=for-the-badge" alt="profile views" />
-<img src="https://badgen.net/github/followers/adiblabib07?color=ec4899&icon=github" alt="followers" />
+<a href="https://github.com/adiblabib07"><img src="https://badgen.net/badge/GitHub/Follow%20Me/ec4899?icon=github" alt="follow me" /></a>
 <img src="https://badgen.net/badge/Based%20in/Indonesia/06b6d4" alt="location" />
 
 </div>
