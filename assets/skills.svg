@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff0080"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#00dfd8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="300" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <text x="30" y="40" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">⚡ Skill Level</text>
+
+  <text x="30" y="83" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3">HTML / CSS</text>
+  <rect x="180" y="70" width="540" height="16" rx="8" fill="#1f2937"/>
+  <rect x="180" y="70" width="0" height="16" rx="8" fill="url(#bar)">
+    <animate attributeName="width" from="0" to="486" dur="1.6s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+  </rect>
+  <text x="740" y="83" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#00dfd8" font-weight="700" opacity="0">90%
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>
+  </text>
+
+  <text x="30" y="127" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3">JavaScript</text>
+  <rect x="180" y="114" width="540" height="16" rx="8" fill="#1f2937"/>
+  <rect x="180" y="114" width="0" height="16" rx="8" fill="url(#bar)">
+    <animate attributeName="width" from="0" to="459" dur="1.6s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+  </rect>
+  <text x="740" y="127" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#00dfd8" font-weight="700" opacity="0">85%
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.45s" fill="freeze"/>
+  </text>
+
+  <text x="30" y="171" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3">React</text>
+  <rect x="180" y="158" width="540" height="16" rx="8" fill="#1f2937"/>
+  <rect x="180" y="158" width="0" height="16" rx="8" fill="url(#bar)">
+    <animate attributeName="width" from="0" to="405" dur="1.6s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+  </rect>
+  <text x="740" y="171" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#00dfd8" font-weight="700" opacity="0">75%
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.7s" fill="freeze"/>
+  </text>
+
+  <text x="30" y="215" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3">TypeScript</text>
+  <rect x="180" y="202" width="540" height="16" rx="8" fill="#1f2937"/>
+  <rect x="180" y="202" width="0" height="16" rx="8" fill="url(#bar)">
+    <animate attributeName="width" from="0" to="378" dur="1.6s" begin="0.95s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+  </rect>
+  <text x="740" y="215" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#00dfd8" font-weight="700" opacity="0">70%
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.95s" fill="freeze"/>
+  </text>
+
+  <text x="30" y="259" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3">Python</text>
+  <rect x="180" y="246" width="540" height="16" rx="8" fill="#1f2937"/>
+  <rect x="180" y="246" width="0" height="16" rx="8" fill="url(#bar)">
+    <animate attributeName="width" from="0" to="324" dur="1.6s" begin="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
+  </rect>
+  <text x="740" y="259" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#00dfd8" font-weight="700" opacity="0">60%
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.2s" fill="freeze"/>
+  </text>
+</svg>
