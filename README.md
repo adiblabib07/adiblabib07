@@ -1,7 +1,7 @@
 <!-- ===== HEADER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff0080,50:7928ca,100:00dfd8&height=220&section=header&text=Adib%20Labib&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Indonesia&descAlignY=58&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:00dfd8&height=260&section=header&text=Adib%20Labib&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Indonesia&descAlignY=58&descSize=20" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Adib+Labib;A+passionate+frontend+developer;I+turn+ideas+into+clean+interfaces+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
