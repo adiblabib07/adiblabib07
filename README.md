@@ -17,7 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/adiblabib07/adiblabib07/main/assets/divider.svg" width="100%" height="6" alt="divider" />
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=About%20Me&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="About%20Me" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=About%20Me&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="About Me" /></div>
 
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="wave" />
 
@@ -29,7 +29,7 @@
 
 <img src="https://raw.githubusercontent.com/adiblabib07/adiblabib07/main/assets/divider.svg" width="100%" height="6" alt="divider" />
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Connect%20With%20Me&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="Connect%20With%20Me" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Connect%20With%20Me&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="Connect With Me" /></div>
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 <img src="https://raw.githubusercontent.com/adiblabib07/adiblabib07/main/assets/divider.svg" width="100%" height="6" alt="divider" />
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Tech%20Stack&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="Tech%20Stack" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Tech%20Stack&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="Tech Stack" /></div>
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 
 <img src="https://raw.githubusercontent.com/adiblabib07/adiblabib07/main/assets/divider.svg" width="100%" height="6" alt="divider" />
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=GitHub%20Stats&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="GitHub%20Stats" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=GitHub%20Stats&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="GitHub Stats" /></div>
 
 <div align="center">
 
@@ -81,7 +81,7 @@
 
 <img src="https://raw.githubusercontent.com/adiblabib07/adiblabib07/main/assets/divider.svg" width="100%" height="6" alt="divider" />
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Contribution%20Graph&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="Contribution%20Graph" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Contribution%20Graph&fontSize=34&fontColor=00dfd8&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="Contribution Graph" /></div>
 
 <div align="center">
 
