@@ -9,10 +9,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=adiblabib07&label=Profile%20views&color=7928ca&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=adiblabib07&label=Profile%20views&color=7928ca&style=flat" alt="profile views" />
 <a href="https://github.com/adiblabib07"><img src="https://badgen.net/badge/GitHub/Follow%20Me/ec4899?icon=github" alt="follow me" /></a>
 <img src="https://badgen.net/badge/Based%20in/Indonesia/06b6d4" alt="location" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/adiblabib07/adiblabib07/main/assets/divider.svg" width="100%" height="6" alt="divider" />
